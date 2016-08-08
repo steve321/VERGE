@@ -1,3 +1,4 @@
+#test
 #!/bin/sh
 set -e
 srcdir="$(dirname $0)"
